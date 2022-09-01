@@ -8,9 +8,11 @@ defaultContentLanguage = 'nl'
 [languages]
   [languages.nl]
     title = 'Mijn blog'
+    languageName = 'Nederlands'
     weight = 2
   [languages.en]
     title = 'My blog'
+    languageName = 'English'
     weight = 1
 
 # RSS, categories and tags disabled for an easy start
