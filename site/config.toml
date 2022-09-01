@@ -3,6 +3,16 @@ languageCode = "en-us"
 languageLang = "en"
 title = "Homepage"
 
+copyright = 'Everything is mine'
+defaultContentLanguage = 'nl'
+[languages]
+  [languages.nl]
+    title = 'Mijn blog'
+    weight = 2
+  [languages.en]
+    title = 'My blog'
+    weight = 1
+
 # RSS, categories and tags disabled for an easy start
 # See configuration options for more details: 
 # https://gohugo.io/getting-started/configuration/#toml-configuration
