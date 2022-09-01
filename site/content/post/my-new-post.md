@@ -6,3 +6,7 @@ description: Samenvatting hier ofzo
 alsd
 
 ![](img/about-shade-grown.jpg)
+
+laksjdalskdj
+
+![](img/blog-index.jpg)
